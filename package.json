@@ -1,0 +1,22 @@
+{
+  "name": "jsdom-textarea-overflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poftadeh/jsdom-textarea-overflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poftadeh/jsdom-textarea-overflow/issues"
+  },
+  "homepage": "https://github.com/poftadeh/jsdom-textarea-overflow#readme",
+  "dependencies": {
+    "jsdom": "^16.2.0"
+  }
+}
